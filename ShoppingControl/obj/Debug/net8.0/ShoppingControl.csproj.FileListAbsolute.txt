@@ -1,0 +1,14 @@
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.AssemblyInfoInputs.cache
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.AssemblyInfo.cs
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.csproj.CoreCompileInputs.cache
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\bin\Debug\net8.0\ShoppingControl.exe
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\bin\Debug\net8.0\ShoppingControl.deps.json
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\bin\Debug\net8.0\ShoppingControl.runtimeconfig.json
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\bin\Debug\net8.0\ShoppingControl.dll
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\bin\Debug\net8.0\ShoppingControl.pdb
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.dll
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\refint\ShoppingControl.dll
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.pdb
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ShoppingControl.genruntimeconfig.cache
+C:\Users\jmtag\source\repos\ShoppingControl\ShoppingControl\obj\Debug\net8.0\ref\ShoppingControl.dll
